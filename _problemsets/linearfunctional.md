@@ -9,3 +9,4 @@ Below are problem sets and notes meant to supplement one's study in a first cour
 - [Warm Up Problems - Solutions](https://jfranks4.github.io/files/warmupproblemssolutions.pdf)
 - [Isometries and Homeomorphisms](https://jfranks4.github.io/files/isometriesandhomeomorphisms.pdf)
 - [Important Properties of Continuous Functions](https://jfranks4.github.io/files/importantpropertiesofcontinuousfunctions.pdf)
+- [Metric Spaces Problem Set One](https://jfranks4.github.io/files/metricspacesproblemsetone.pdf)
