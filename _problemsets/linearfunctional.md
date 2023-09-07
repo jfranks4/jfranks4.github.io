@@ -10,3 +10,4 @@ Below are problem sets and notes meant to supplement one's study in a first cour
 - [Isometries and Homeomorphisms](https://jfranks4.github.io/files/isometriesandhomeomorphisms.pdf)
 - [Important Properties of Continuous Functions](https://jfranks4.github.io/files/importantpropertiesofcontinuousfunctions.pdf)
 - [Metric Spaces Problem Set One](https://jfranks4.github.io/files/metricspacesproblemsetone.pdf)
+- [A Non-Separable Metric Space](https://jfranks4.github.io/files/anonseparablemetricspace.pdf)
