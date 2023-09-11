@@ -12,3 +12,4 @@ Below are problem sets and notes meant to supplement one's study in a first cour
 - [Metric Spaces Problem Set One](https://jfranks4.github.io/files/metricspacesproblemsetone.pdf)
 - [A Non-Separable Sequence Space](https://jfranks4.github.io/files/anonseparablesequencespace.pdf)
 - [Dense and Nowhere Dense Example](https://jfranks4.github.io/files/denseandnowheredenseexample.pdf)
+- [Not Dense vs Nowhere Dense](https://jfranks4.github.io/files/notdensevsnowheredense.pdf)
